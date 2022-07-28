@@ -8,4 +8,4 @@ CSS stylesheet has been consolidated and reorganized to follow the new semantic 
 
 Alt tags have been added for accessibility and search engine optimization.
 
-![A screenshot of the finished webpage](code-refactor-HTML-CSS-M1/assets/images/finished-page-screenshot.png)
+![A screenshot of the finished webpage](assets/images/finished-page-screenshot.png)
