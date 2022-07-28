@@ -7,3 +7,5 @@ HTML code has been refactored to utilize semantic tags.
 CSS stylesheet has been consolidated and reorganized to follow the new semantic structure of the HTML.
 
 Alt tags have been added for accessibility and search engine optimization.
+
+![A screenshot of the finished webpage](code-refactor-HTML-CSS-M1/assets/images/finished-page-screenshot.png)
