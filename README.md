@@ -1,14 +1,16 @@
 # code-refactor-HTML-CSS-M1
 
-##About
+## About
 
+```
 This is a refactor of HTML and CSS code for a website for Horiseon Social Solution Services.
 
 HTML code has been refactored to utilize semantic tags. Alt tags have been added for improved accessibility and search engine optimization.
 
 CSS stylesheet has been consolidated and reorganized to follow the new semantic structure of the HTML.
+```
 
-## User Story
+## User Story (from assignment)
 
 ```
 AS A marketing agency
@@ -16,7 +18,7 @@ I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+## Acceptance Criteria (from assignment)
 
 ```
 GIVEN a webpage meets accessibility standards
@@ -30,10 +32,12 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+```
 
 ## Mock-Up
 
 !["The Horiseon webpage includes a header with embedded navigation bar, a header image, cards including text and images at the bottom of the page, and a sidebar."](assets/images/finished-page-screenshot.png)
 
+## Deployed Application Link
+
 https://relero90.github.io/code-refactor-HTML-CSS-M1/
-```
